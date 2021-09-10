@@ -1,0 +1,24 @@
+#########################################
+## controle de versão e correções LOJA ##
+#########################################
+
+0.01 listagem das categorias
+0.02 listar produtos por categoria na categoty.php
+0.03 listar os ultimos 4 produtos cadastrados na página inicial
+0.04 listar os ultimos 4 produtos mais na página inicial
+0.05 listar o produto mais acessado
+0.06 no index.php a descricação vai até 100 caracteres
+0.07 página do produto
+0.08 página de contatos
+0.09 mostrar plugin do facebook no rodapé
+0.10 imagens manter proporção para não quebrar estética do site
+0.11 botão para escolher mostrar por grade ou lista
+0.12 organizar css e javascript dos produtos
+0.13 correção plugin facebook no rodapé
+
+###########################
+## CORREÇÕES E MELHORIAS ##
+###########################
+
+ - FAZENDO
+paginação de itens

@@ -1,0 +1,20 @@
+controle de versão e correções RETAGUARDA
+VERSÃO INICIAL SEM CARRINHO
+-----------------------------------
+
+0.01 CRUD categorias
+0.02 CRUD marcas
+0.03 incluir produtos SEM foto
+0.04 incluir produtos COM foto
+0.05 alterar produtos
+0.06 excluir produtos SEM excluir a imagem
+0.07 excluir produtos COM excluir a imagem
+0.08 página de alterar preços
+0.09 página de alterar preços - SALVAR HISTÓRICO DAS ATUALIZAÇÕES
+0.10 página de alterar preços - MOSTRAR AS ÚLTIMAS 10 ATUALIZAÇÕES DE PREÇOS
+0.11 cadastro da loja
+0.12 configuração de email
+
+########################
+# MELHORIAS PARA FAZER #
+########################
